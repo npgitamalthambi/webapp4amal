@@ -1,6 +1,6 @@
 # webapp4amal
 
-A simple React application built with Vite.
+A simple React application built with Vite by Amal Thambi Capgemini LnD BLR
 
 ## Getting Started
 
